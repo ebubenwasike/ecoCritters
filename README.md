@@ -1,3 +1,83 @@
+# EcoCritters 🐸🐣
+
+EcoCritters is a fun interactive ecosystem simulation built with React that models how articicial selection affects organisms generation after geenration. The project visualizes disrupting wildlife has negative effects.
+
+## Features
+
+***Creature Generation** – Randomly generates creatures with traits such as speed and behavior.
+**Population Tracking** – Uses charts to visualize ecosystem changes over time.
+***Real-time Simulation** – Creatures move and interact dynamically during the simulation.
+
+## Tech Stack
+
+* **React**
+* **JavaScript**
+* **Recharts** (for data visualization)
+* **HTML / CSS**
+
+## How It Works
+
+1. Creatures are generated with random attributes.
+2. Choose to feed a particular creature
+3. Creatures population size rapildly increases, forcing other creatures into extinction
+4. Population changes are tracked and visualized using charts.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ebubenwasike/ecoCritters.git
+```
+
+Navigate into the project folder:
+
+```bash
+cd ecoCritters
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## Project Structure
+
+```
+ecoCritters/
+│
+├── src/
+│   ├── App.jsx
+│   ├── assets/
+│   │   ├── creatures/
+│   │   └── food.png
+│   └── components/
+│
+├── public/
+└── README.md
+```
+
+(Run App.jsx)
+
+## Future Improvements
+
+* Add reproduction and evolution mechanics
+* Introduce predator/prey relationships
+* Improve AI behavior for creatures
+* Add more ecosystem variables (weather, terrain)
+
+## Author
+
+**Ebube Nwasike** <33333🩷🌞
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
