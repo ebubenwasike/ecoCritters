@@ -1,8 +1,8 @@
-# EcoCritters 🐸🐣
+# ecocritters
 
-EcoCritters is a fun interactive ecosystem simulation built with React that models how articicial selection affects organisms generation after geenration. The project visualizes disrupting wildlife has negative effects.
+this project EcoCritters is a fun interactive ecosystem simulation built with React that models how articicial selection affects organisms generation after geenration. The project visualizes disrupting wildlife has negative effects.
 
-## Features
+## Features :
 
 ***Creature Generation** – Randomly generates creatures with traits such as speed and behavior.
 **Population Tracking** – Uses charts to visualize ecosystem changes over time.
